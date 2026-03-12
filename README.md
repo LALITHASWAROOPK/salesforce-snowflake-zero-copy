@@ -16,7 +16,16 @@ Salesforce Data Cloud → Snowflake analytics. No ETL, no duplication.
 
 ```bash
 # Clone
-git clone https://github.com/YOURNAME/salesforce-snowflake-zero-copy
+git clone https://github.com/LALITHASWAROOPK/salesforce-snowflake-zero-copy.git
 
 # Run security integration
 cd sql && snowsql -f 01-security-integration.sql
+
+## 🛠️ Local Setup (Optional)
+
+```bash
+# Requirements
+Snowflake account (Trial works)
+SnowSQL CLI
+Salesforce Data Cloud admin access
+
