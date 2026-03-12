@@ -1,6 +1,6 @@
 # Salesforce → Snowflake Zero-Copy Sharing
 
-Production-tested OAuth integration for Salesforce Data Cloud → Snowflake analytics. No ETL, no duplication.
+Salesforce Data Cloud → Snowflake analytics. No ETL, no duplication.
 
 [![Part 1 Blog](https://img.shields.io/badge/dev.to-Part%201-blue)](YOUR_DEVTO_LINK)
 [![Part 2 Coming](https://img.shields.io/badge/dev.to-Part%202-orange)](https://dev.to/YOU/part-2)
